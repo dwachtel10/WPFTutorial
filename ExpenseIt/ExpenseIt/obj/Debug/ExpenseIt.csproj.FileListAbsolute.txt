@@ -16,3 +16,4 @@ c:\users\25493\documents\visual studio 2015\Projects\ExpenseIt\ExpenseIt\obj\Deb
 c:\users\25493\documents\visual studio 2015\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.csproj.GenerateResource.Cache
 c:\users\25493\documents\visual studio 2015\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.exe
 c:\users\25493\documents\visual studio 2015\Projects\ExpenseIt\ExpenseIt\obj\Debug\ExpenseIt.pdb
+C:\Users\25493\documents\visual studio 2015\Projects\ExpenseIt\ExpenseIt\obj\Debug\App.baml
